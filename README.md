@@ -20,3 +20,10 @@ pip install django psutil prometheus-client
 ```
 Requirements:
 pip install django psutil prometheus-client
+
+## Screenshots
+
+![Screenshot 01](https://github.com/gh0stinthemirr0r/Network-Adapter-Discovery/blob/main/screenshots/screenshot01.png)
+
+![Screenshot 02](https://github.com/gh0stinthemirr0r/Network-Adapter-Discovery/blob/main/screenshots/screenshot02.png)
+
